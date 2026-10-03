@@ -1,1 +1,18 @@
-/.idea/
+/.📁 website/
+├── index.html          ← فایل بالا
+├── 404.html            ← (صفحه خطا)
+├── sitemap.xml
+├── site.webmanifest
+├── robots.txt
+└── 📁 images/
+    ├── hero.webp
+    ├── hero-sm.webp
+    ├── logo.webp
+    ├── favicon.png
+    ├── apple-touch-icon.png
+    ├── og.jpg
+    ├── g-fields.webp
+    ├── g-district.webp
+    ├── g-road.webp
+    ├── map-thumb.webp
+    └── map.webp
